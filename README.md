@@ -1,4 +1,10 @@
-# The World in One Day — 17 November 2026
+# make-fun-news-image-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/arunanala65-spec/make-fun-news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/arunanala65-spec/make-fun-news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+## The World in One Day — 17 November 2026
 
 Entry for make.fun `news-image-20261117`: "Sum up 17 November's world news in one image."
 
@@ -41,7 +47,7 @@ figures (e.g. the alleged $25m/$110m in the Mongolia story) are labelled
 model and no network were used. Re-run it with `python3 render.py`
 to regenerate `entry.png`.
 
-## How to run
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
@@ -57,3 +63,6 @@ the same bytes are copied on every run.
 - `entry.png` — the image (1024×1024, under 1 MiB)
 - `render.py` — the script that drew `entry.png`
 - `LICENSE` — MIT
+
+---
+<sub>Entered on [make.fun](https://make.fun/?ref=ce51ph37&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
